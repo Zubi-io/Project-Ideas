@@ -1,14 +1,9 @@
 ---
 name: Project Proposal Issue
-about: Use this template while you submitting a project proposal for a Hackathon.
+about: Use this template while you submitting a project proposal.
 title: ''
 labels: ''
 assignees: ''
-
----
-
-### Hackathon Name*
-_Write the hackathon name in which you are participating._
 
 ---
 
