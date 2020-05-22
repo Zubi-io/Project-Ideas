@@ -1,6 +1,6 @@
 # 🚀Project-Ideas
-
-Desc: This repository maintains all the ideas that are pitched in.
+ 
+This repository maintains all the ideas that are pitched in.
 
 ## Checklist ✔️
 
