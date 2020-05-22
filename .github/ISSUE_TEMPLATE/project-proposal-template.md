@@ -1,9 +1,8 @@
 ---
-name: Project Proposal Issue
-about: Use this template while you submitting a project proposal.
-title: ''
-labels: ''
-assignees: ''
+Name: Project Proposal Name
+About: Description of the project proposal.
+Labels: ''
+Assignees: ''
 
 ---
 
