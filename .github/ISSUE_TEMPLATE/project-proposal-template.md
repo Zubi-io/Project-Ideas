@@ -1,6 +1,6 @@
 ---
-Name: 'Project Proposal Name'
-About: 'Description of the project proposal'
+Name: ''
+About: ''
 Labels: ''
 Assignees: ''
 
