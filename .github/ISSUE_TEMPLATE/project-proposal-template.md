@@ -1,8 +1,24 @@
----
-project Title*: _project title in less than 20 character_
-project Description*: _Briefly describe the project's workflow and which problem statement you are addressing to._
-project Limitations: _Mention what you wont cover in your solution Mention future works possible on the project_
-project Repository*: _Link to the GitHub repository where your team will be contributing code_
-tech Stack*: _Mention all the frameworks, languages and tools used by your project_
-GitHub_username*: _Team members GitHub handle_
----
+**Before you start, please follow this format for your issue title**:  
+PROJECT NAME
+
+## ℹ️ Project information
+_Please complete all applicable._
+
+- **Project Name**:
+- **Short Project Description**: _One line crisp description of your project_
+- **Any supporting Link**: _(if any, this might contain a website/ mobile application link/ short video, etc.)_
+- **Labels**: _Mention the labels you wish to apply here_
+
+## 🔥 Your Pitch
+_Kindly write a detailed description for your project. Please do not use more than 500 words_
+
+
+## 🔦 Any other specific thing you want to highlight?
+_(Optional)_
+
+## ✅ Checklist
+
+**Before you post the issue**:
+- [ ] You have followed the issue title format.
+- [ ] You have mentioned the correct labels.
+- [ ] You have provided all the information correctly.
