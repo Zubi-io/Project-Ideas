@@ -8,7 +8,7 @@ If you are not sure about contributing to the opensource community then do check
 
 - [ ] I have read the instructions on the README file before submitting my application. 
 - [ ] I made my submission by creating a folder on the `ideas` folder and followed the naming convention mentioned in the instructions (`<project_name>`), and added my markdown file.
-- [ ] I have used the Markdown file template at `.github/ISSUE_TEMPLATE/project-proposal-template.md` to add my information to the project idea list.
+- [ ] I have used the Markdown file template at `.github/ISSUE_TEMPLATE.md` to add my information to the project idea list.
 - [ ] My proposal belongs to:
   - [ ] **#1** 🏎️: Gets it reviewed ASAP.
   - [ ] **#2** 🚕: Gets it reviewed within 3 days.
