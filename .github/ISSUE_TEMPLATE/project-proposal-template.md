@@ -1,18 +1,17 @@
 ### Project Title*
-_Write a Project title for your project in less than 15 characters_
+_DappShop_
 
 ### Project Description*
-_Briefly describe the project's workflow and which problem statement you are addressing to._ 
+_A decentralised shop made on Ethereum Smart Contract._ 
 
 ### Project Limitations
-_Mention what you wont cover in your solution
-Mention future works possible on the project_
+_Launching my smart contract to the main ethereum network_
 
 ### Project Repository*
-_Link to the GitHub repository where your team will be contributing code._
+_https://github.com/AllenAJ/Ethereum-dApp-Basekit._
 
 ### Tech Stack*
-_Mention all the frameworks, languages and tools used by your project_
+_Solidity/Javascript/Truffle/Ganache/web3_
 
 ### Team Members and Contact info*
-_Feel free to tag your team member's using their GitHub handle_
+_Allen Joseph (github.com/AllenAJ)_
