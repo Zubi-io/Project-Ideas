@@ -1,14 +1,5 @@
----
-
-Name: ''
-About: ''
-Labels: ''
-Assignees: ''
-
----
-
 ### Project Title*
-_Write a Project title for your project in less than 50 characters_
+_Write a Project title for your project in less than 15 characters_
 
 ### Project Description*
 _Briefly describe the project's workflow and which problem statement you are addressing to._ 
