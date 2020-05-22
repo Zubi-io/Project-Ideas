@@ -14,4 +14,4 @@ This repository maintains all the ideas that are pitched in.
 - [ ] I understand that a reviewer will merge my pull request after examining it or ask for changes in case needed.
 - [ ] I understand I should not tag or add a reviewer to this Pull Request.
 - [ ] I understand the msrkdown file added to the template will be used in the project idea list. 
-- [ ] I have [joined the telegram group](www.t.me/zubi_io).
+- [ ] I have [joined the telegram group](https://t.me/zubi_io).
