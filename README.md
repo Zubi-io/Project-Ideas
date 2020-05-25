@@ -1,7 +1,8 @@
-# 🚀Project-Ideas
- 
-This repository maintains all the ideas that are pitched in.
+👋 About
+Zubi is a 21st-century emerging technology company, wherein we take students on a journey that educates, transforms and enables them to apply exponential technologies and a growth mindset towards the world. We are building 'India's largest Emerging Tech community' with the vision to empower millions towards new-age skills and technologies. 
 
+# 🚀Project-Ideas
+This repository maintains all the ideas that are pitched in.
 If you are not sure about contributing to the opensource community then do checkout https://github.com/Zubi-io/start-here
 
 ## Submissions
