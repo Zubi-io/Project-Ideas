@@ -3,6 +3,8 @@ Zubi is a 21st-century emerging technology company, wherein we take students on 
 
 If you are not sure about how/where to get started for the opensource community program then do checkout https://github.com/Zubi-io/start-here and make sure to read it thoroughly.
 
+![zubi-logo-wide](https://raw.githubusercontent.com/AllenAJ/ZUBI-Data-dump/master/zubi.io.black.png)
+
 # 🚀Project-Ideas
 This repository maintains all the ideas that are pitched in for Zubi Open-source program.
 
