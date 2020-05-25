@@ -1,5 +1,5 @@
 # 👋 About
-Zubi is a 21st-century emerging technology company, wherein we take students on a journey that educates, transforms and enables them to apply exponential technologies and a growth mindset towards the world. We are building **'India's largest Emerging Tech community'** with the vision to empower millions towards new-age skills and technologies. 
+Zubi is a 21st-century emerging technology company, wherein we take students on a journey that educates, transforms and enables them to apply exponential technologies and a growth mindset towards the world. We are building **'India's largest Emerging Tech community'** with the vision to empower millions towards new-age skills and technologies. <br>
 If you are not sure about how/where to get started for the opensource community program then do checkout https://github.com/Zubi-io/start-here and make sure to read it thoroughly.
 
 # 🚀Project-Ideas
