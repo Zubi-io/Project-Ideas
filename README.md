@@ -12,4 +12,4 @@ All the Project Idea Submissions have to done by making an issue in this reposit
 4. Only a **single issue** has to be made for each individual project, Multiple submissions will be termed as INVALID SUBMISSION.
 
 ## Labels
-One has to mark appropriate label in order to a submission valid for the Hackference Hackathon. Each submissions should have at least 2 labels according to the Project Field & Track.
+One has to mark appropriate label in order to a submission valid. Each submissions should have at least 2 labels according to the Project Field.
