@@ -3,7 +3,7 @@ Zubi is a 21st-century emerging technology company, wherein we take students on 
 
 # 🚀Project-Ideas
 This repository maintains all the ideas that are pitched in for Zubi Open-source program.
-If you are not sure about contributing to the opensource community then do checkout https://github.com/Zubi-io/start-here
+If you are not sure about how/where to get started for the opensource community program then do checkout https://github.com/Zubi-io/start-here and make sure to read it thoroughly.
 
 ## Submissions
 All the Project Idea Submissions have to done by making an issue in this repository. The guidelines to followed for the same have been mentioned below:
