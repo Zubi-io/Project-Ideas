@@ -13,8 +13,9 @@ _Please complete all applicable._
 _Kindly write a detailed description for your project. Please do not use more than 500 words_
 
 
-## 🔦 Any other specific thing you want to highlight?
-_(Optional)_
+## 🔦 Looking for a help in?
+_Can be Looking for teammates having skills in React.js or Looking for a mentor experienced in Data Structures to help me select optimised algorithm etc._ </br>
+
 
 ## ✅ Checklist
 
