@@ -43,7 +43,7 @@ Or filter by tech category:
 
 Or if you are totally new to open source and development, you can check out:
 
-* [`First Contribute`]()
+* [`First Contribute`](https://github.com/Zubi-io/Project-Ideas/issues?q=is%3Aopen+is%3Aissue+label%3A%22First+Contribute%22)
 
 
 This project adheres to the [Contributor Covenant code of conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
